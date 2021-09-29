@@ -1,0 +1,40 @@
+[{
+        "source": {
+            "id": "globo",
+            "name": "Globo"
+        },
+        "author": "Melissa Duarte",
+        "title": "Pesquisador mexicano prevê que Covid-19 vai continuar como doença sazonal como a gripe - Jornal O Globo",
+        "description": "Professor de epidemiologia, Rafael Meza diz que Delta deve diminuir ameaça",
+        "url": "https://oglobo.globo.com/saude/pesquisador-mexicano-preve-que-covid-19-vai-continuar-como-doenca-sazonal-como-gripe-25203046",
+        "urlToImage": "https://ogimg.infoglobo.com.br/in/25203045-0b0-36c/FT1086A/760/coronavirus.jpg",
+        "publishedAt": "2021-09-20T08:16:00Z",
+        "content": "BRASÍLIA O professor de epidemiologia e de saúde global da Escola de Saúde Pública da Universidade de Michigan Rafael Meza avalia que a Covid-19 deve ser tornar uma doença sazonal, principalmente no … [+5002 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Uol.com.br"
+        },
+        "author": "UOL",
+        "title": "Dormindo mal? Veja 9 dicas para melhorar a qualidade do sono - UOL",
+        "description": "Você anda com insônia ou dormindo pouco? Com a pandemia, as queixas relacionadas ao sono aumentaram. Saiba como melhorá-lo",
+        "url": "https://www.uol.com.br/viva-bem/stories/dormindo-mal-veja-9-dicas-para-melhorar-a-qualidade-do-sono",
+        "urlToImage": null,
+        "publishedAt": "2021-09-20T07:00:40Z",
+        "content": "dormindo mal?\r\nVeja 9 dicas para melhorar a qualidade do sono\r\nVocê anda com insônia ou dormindo pouco? Com a pandemia, as queixas relacionadas ao sono aumentaram. É comum sentir dificuldade para ado… [+3791 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Obemdito.com.br"
+        },
+        "author": null,
+        "title": "Paciente com câncer não deve abandonar tratamento, alerta médico da Uopeccan - OBemdito",
+        "description": "A pandemia da covid-19 tem deixado a população em alerta. Para informar e orientar pacientes com câncer sobre as principais …",
+        "url": "https://obemdito.com.br/noticia/23616/paciente-com-cancer-nao-deve-abandonar-tratamento-alerta-medico-da-uopeccan",
+        "urlToImage": "https://cdn-obemdito.obemdito.com.br/wp-content/uploads/2021/08/17090136/Uopeccan-Danilo-Martins-02-07-2021-1.jpg",
+        "publishedAt": "2021-09-19T23:02:46Z",
+        "content": "A pandemia da covid-19 tem deixado a população em alerta. Para informar e orientar pacientes com câncer sobre as principais medidas voltadas para eles, o Hospital do Câncer Uopeccan traz algumas reco… [+3552 chars]"
+    }
+]
